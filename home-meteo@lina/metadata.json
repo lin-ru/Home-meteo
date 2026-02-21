@@ -1,0 +1,6 @@
+{
+    "uuid": "home-meteo@lina",
+    "name": "Home Meteo",
+    "description": "Домашняя метеостанция",
+    "prevent-decorations": true
+}

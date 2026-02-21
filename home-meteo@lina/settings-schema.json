@@ -1,0 +1,21 @@
+{
+    "font-size": {
+        "type": "spinbutton",
+        "default": 16,
+        "units": "pt",
+        "step": 1,
+        "min": 10,
+        "max": 72,
+        "description": "Размер шрифта"
+    },
+    "custom-color": {
+        "type": "colorchooser",
+        "default": "rgb(0,0,255)",
+        "description": "Цвет текста"
+    },
+    "use-custom-color": {
+        "type": "checkbox",
+        "default": false,
+        "description": "Использовать свой цвет"
+    }
+}
