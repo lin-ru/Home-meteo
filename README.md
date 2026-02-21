@@ -1,6 +1,6 @@
 # Home-meteo
 
-Мини домашная метеостанция на базе Arduin Nano + SHT31 (SHT31-D) и Arch linux
+Мини домашная метеостанция на базе Arduino Nano + SHT31 (SHT31-D) и Arch linux
 Cinnamon.
 
 ![Скриншот 1](images/screenshot1.png)
